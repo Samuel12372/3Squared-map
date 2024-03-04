@@ -1,3 +1,13 @@
+# Getting started
+
+### 'npm i'
+
+install the project libarys 
+
+### 'npx tailwindcss -i ./tailwind.css -o ./src/css/tailwind.css --watch --minify'
+
+run tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
